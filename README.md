@@ -32,11 +32,13 @@ npm run dev
 ### Server
 
 npm install
+
 npm run dev
 
-Create a .env file:
+Create a .env file :
 
 GROQ_API_KEY=YOUR_API_KEY
+
 PORT=5000
 
 ## Author

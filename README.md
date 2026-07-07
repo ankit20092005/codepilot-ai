@@ -26,6 +26,7 @@ AI-powered code review platform built with React, Node.js, Express, and Groq AI.
 ### Client
 
 npm install
+
 npm run dev
 
 ### Server
